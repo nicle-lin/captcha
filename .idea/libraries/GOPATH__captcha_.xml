@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;captcha&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../sangfor" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../angularjs" />
+      <root url="file://$PROJECT_DIR$/../../../gotest" />
+      <root url="file://$PROJECT_DIR$/../../../tbetFront" />
+      <root url="file://$PROJECT_DIR$/../../../webFront" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../sangfor" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../angularjs" />
+      <root url="file://$PROJECT_DIR$/../../../gotest" />
+      <root url="file://$PROJECT_DIR$/../../../tbetFront" />
+      <root url="file://$PROJECT_DIR$/../../../webFront" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
